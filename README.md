@@ -1,1 +1,1 @@
-# Segmentation-and-mg-image-classification
+# Segmentation and classification of mammographic images.
